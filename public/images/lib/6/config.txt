@@ -1,0 +1,1 @@
+$width = 330; $height = 311; $degrees = 13.15; $position = 41; $ofset = 92;

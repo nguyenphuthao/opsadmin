@@ -1,0 +1,5 @@
+if($aaa < 10) $left = 270;
+if($aaa > 9 || $aaa < 100) $left = 250;
+if($aaa > 99|| $aaa < 1000) $left = 240;
+if($aaa > 999|| $aaa < 10000) $left = 220;
+$this->watermarkText($sourcefile, $aaa, $left, 60, "#d62128");

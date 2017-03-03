@@ -1,0 +1,10 @@
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/3.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/1521844_10201200271670637_849048422_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/1530387_10202056665232339_2112991516_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/413913_3260508193335_856383579_o.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/5.jpg'
+ duration 3

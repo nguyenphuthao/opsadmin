@@ -1,0 +1,6 @@
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/4.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/2.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/5.jpg'
+ duration 3

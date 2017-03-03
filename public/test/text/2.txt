@@ -1,0 +1,2 @@
+$this->watermarkText($sourcefile, "NGUY?N TH?O &", 173, 230, 28, "#f7d916");
+        $this->watermarkText($sourcefile, "NG?C S?", 173, 280, 28, "#f7d916");

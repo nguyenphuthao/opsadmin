@@ -1,0 +1,24 @@
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/304860_10200424415673805_2129237797_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/189588_167257186658310_7146147_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/3.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/1292437_10201472166580238_121282744_o.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/62927_10200424407273595_1727479404_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/1074890_10200336164708503_1541150352_o.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/18390_10200424408633629_1531903203_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/5.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/313804_10200424413193743_829133816_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/images/lib/4.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/18390_10200424408633629_1531903203_n.jpg'
+ duration 3
+file 'E:/wwwroot/beltet.opsgreat.vn/public/_data/images/10211403008891774/46698_10200424407513601_1678269774_n.jpg'
+ duration 3
